@@ -28,7 +28,7 @@ allprojects {
 
 2) Add the following to your module's `build.gradle`:
 ```
-implementation 'com.github.sevar83:android-spatialite:<LATEST_VERSION>'
+implementation 'com.github.tellandev:android-spatialite:<LATEST_VERSION>'
 ```
 
 ## EXAMPLE CODE
